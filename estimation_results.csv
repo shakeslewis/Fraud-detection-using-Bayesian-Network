@@ -1,0 +1,6 @@
+,mle_fixed_bins,bayes_fixed_bins
+accuracy,0.9932,0.9932
+precision,0.9573,0.9573
+recall,0.9923,0.9923
+f1_score,0.9745,0.9745
+roc_auc,0.9994,0.9994
