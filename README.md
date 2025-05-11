@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fraud Detection using Bayesian Networks 
 
 This project implements a fraud detection system using Bayesian Networks with support for latent variable learning.
@@ -51,3 +52,6 @@ The model outputs several visualizations:
 - Network structure
 - Confusion matrices
 - Feature importance plots
+=======
+# Fraud-detection-using-Bayesian-Network
+>>>>>>> 516b6991c0ccb3d599015fb5767473d50ec41557
